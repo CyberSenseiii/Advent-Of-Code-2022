@@ -2,4 +2,4 @@
 
 I know that i'm pretty late to the party, however its always worth trying these challenges. 
 These challenges from advent of code are a fun way to practice and learn python. 
-I have created a repository where i would share all my solutions from DAY 2 :) 
+I have created this repository to share all my solutions from DAY 2 :) 
